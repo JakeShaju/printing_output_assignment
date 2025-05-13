@@ -34,5 +34,6 @@ let first_name="Jake";
 let last_name="Shaju";
 let email="jakeshaju@gmail.com";
 
-console.log("My name is ${first_name} ${last_name}. You can contact me at ${email}."; 
+let result= `My name is ${first_name} ${last_name}. You can contact me at ${email}.`; 
+console.log(result);
 
